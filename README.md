@@ -3,7 +3,7 @@
 # Guida all'installazione di LibreChat
 
 ## Passo 1: Rimuovere i container e i volumi esistenti
-Rimuovi eventuali container e volumi associati a LibreChat, inclusa la cartella `librechat`. Mantieni solo le immagini Docker.
+Rimuovi eventuali container e volumi associati a LibreChat, inclusa la cartella `LibreChat`. Mantieni solo le immagini Docker.
 
 ---
 
